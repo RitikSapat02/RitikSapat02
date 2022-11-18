@@ -28,6 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@ritiksapat02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ritiksapat02" height="30" width="40" /></a>
+<a href="https://dev.to/@ritiksapat02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ritiksapat02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritik sapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik sapat" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20539267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20539267" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ritiksapat02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ritiksapat02" height="30" width="40" /></a>
@@ -50,3 +51,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritiksapat02&show_icons=true&locale=en" alt="ritiksapat02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksapat02&" alt="ritiksapat02" /></p>
+
