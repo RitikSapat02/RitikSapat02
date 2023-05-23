@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Django and React**
 
-- 🌱 I’m currently learning **Data science, DSA and java spring boot**
+- 🌱 I’m currently learning **Data science, DSA and nextjs**
 
-- 👯 I’m looking to collaborate on **Web development projects**
+- 👯 I’m looking to collaborate on **Full stack Web development projects**
 
 - 📝 I regularly write articles on [https://hashnode.com/@ritiksapat02](https://hashnode.com/@ritiksapat02)
 
