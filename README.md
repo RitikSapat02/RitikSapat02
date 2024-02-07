@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Django and React**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Data science, DSA and nextjs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **Full stack Web development projects**
 
