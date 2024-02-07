@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@ritiksapat02](https://hashnode.com/@ritiksapat02)
 
-- 💬 Ask me about **competitive programming,React,django,python,javascript,data science and ofcourse DSA**
+- 💬 Ask me about **competitive programming,React,Node.js,javascript,django,python,javascript,data science and ofcourse DSA**
 
-- 📫 How to reach me **ritik_ultra_coder@gmail.com**
+- 📫 How to reach me **ritiksapat@gmail.com**
 
 - ⚡ Fun fact **I am full time learner**
 
